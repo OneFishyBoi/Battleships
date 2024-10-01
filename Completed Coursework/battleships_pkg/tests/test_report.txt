@@ -1,0 +1,6 @@
+Test Report
+===========
+
+create_battleships function does not return a dictionary
+place_battleships function is missing an argument.Check your function has a board, ships and algorithm argument
+process_attack function does not exist in your solution.
